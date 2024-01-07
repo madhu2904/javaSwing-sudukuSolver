@@ -1,0 +1,1 @@
+This is a sudoku solver. This code displays the solved sudoku in java GUI. Giving input values is the drawback here(you have to give input in the order of grid i.e grid wise).I have given a text file of sample input for your understanding
